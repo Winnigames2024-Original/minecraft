@@ -1,0 +1,3 @@
+// Check Current Minecraft Server Is Enabled TXT Document
+
+enabled = true
