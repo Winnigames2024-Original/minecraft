@@ -6,8 +6,7 @@ using java.javaversions;
 
 hgp.web=false;
 hgp.inapp=true;
-hgp.candownload=true;
-hgp.java=true;
+hgp.usejava=true;
 
 cuforge.java=<javaversions.last>;
 cuforge.version="0.0.1 BETA";
